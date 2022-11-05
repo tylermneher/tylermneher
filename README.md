@@ -1,6 +1,12 @@
-### Tyler M. Neher's GitHub Profile 👋
+## Welcome to Tyler's GitHub 👋
 
 [![@tylermneher's Holopin board](https://holopin.io/api/user/board?user=tylermneher)](https://holopin.io/@tylermneher)
+
+* * * 
+
+### And now for a nerd joke...
+
+![Jokes Card](https://readme-jokes.vercel.app/api) 
 
 <!--
 **tylermneher/tylermneher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
