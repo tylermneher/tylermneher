@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tyler M. Neher's GitHub Profile 👋
 
 [![@tylermneher's Holopin board](https://holopin.io/api/user/board?user=tylermneher)](https://holopin.io/@tylermneher)
 
