@@ -1,10 +1,12 @@
-## Tyler M. Neher | GitHub 👋
+<h1 align="center"> Tyler M. Neher | Welcome to my GitHub! 🧑‍💻</h1>
 
 <!-- [![@tylermneher's Holopin board](https://holopin.io/api/user/board?user=tylermneher)](https://holopin.io/@tylermneher)
  -->
 <br>
 
+<div align="center">
 <a href="https://skyline.github.com/tylermneher/2022" title="2022 GitHub Skyline"><img src="tylermneher-skyline-2022.png" alt="2022 GitHub Skyline" width="90%" /></a>
+</div>
 
 <br>
 
@@ -14,7 +16,8 @@
 
 * * * 
 
-### And now for a nerd joke...
+<div align="center">
+ <h2><i>And now for a nerd joke...</h2></i>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
-
+</div>
