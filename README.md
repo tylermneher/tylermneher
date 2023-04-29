@@ -10,9 +10,18 @@
 
 <br>
 
+<div align="center">
 <a href="https://github.com/tylermneher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylermneher&theme=dark&hide_langs_below=1" />
 </a>
+ </div>
+
+* * *
+
+<div align="center">
+<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarsun.php"></a>
+</div>
+
 
 * * * 
 
