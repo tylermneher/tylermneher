@@ -1,4 +1,14 @@
-<h1 align="center"> Tyler M. Neher | Welcome to my GitHub! 🧑‍💻</h1>
+<h1 align="center">Welcome to my GitHub! 🧑‍💻</h1>
+
+
+<div align="center">
+<a href="https://www.github.com/tylermneher" title="tylermneher"><img src="https://www.github.com/tylermneher.png" alt="tylermneher" width="75%" /></a>
+</div>
+
+<br>
+
+* * *
+ 
 
 <!-- [![@tylermneher's Holopin board](https://holopin.io/api/user/board?user=tylermneher)](https://holopin.io/@tylermneher)
  -->
@@ -8,7 +18,9 @@
 <a href="https://skyline.github.com/tylermneher/2022" title="2022 GitHub Skyline"><img src="tylermneher-skyline-2022.png" alt="2022 GitHub Skyline" width="90%" /></a>
 </div>
 
-<br>
+
+
+ 
 
 <div align="center">
 <a href="https://github.com/tylermneher">
