@@ -34,6 +34,16 @@
 <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarsun.php"></a>
 </div>
 
+* * *
+
+<div align="center">
+<a title="Developers for Firefox"
+   href="https://www.mozilla.org/firefox/this-browser-comes-highly-recommended/">
+  <img style="border:0 none;"
+       alt="Developers for Firefox"
+       src="https://code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Dark.png">
+</a>
+</div>
 
 * * * 
 
