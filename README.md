@@ -48,6 +48,12 @@
 * * * 
 
 <div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/tylermneher.png" alt="TryHackMe">
+</div>
+
+* * * 
+
+<div align="center">
  <h2><i>And now for a nerd joke...</h2></i>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
