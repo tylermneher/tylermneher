@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<a href="https://www.github.com/tylermneher" title="tylermneher"><img src="https://www.github.com/tylermneher.png" alt="tylermneher" width="75%" /></a>
+<a href="https://www.github.com/tylermneher" title="tylermneher"><img src="https://raw.githubusercontent.com/tylermneher/www.tylermneher.me/main/tylermneher.jpg" alt="tylermneher" width="75%" /></a>
 </div>
 
 <br>
